@@ -13,32 +13,32 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Berkay Dağıstanlı - Kickbox Antrenörü | Kişisel Antrenman",
-  description: "Türkiye'nin en iyi kickbox antrenörü Berkay Dağıstanlı ile kişisel antrenman. Muaythai, Kempo ve Boks eğitimi. 15+ yıl deneyim, Avrupa şampiyonu.",
-  keywords: "kickbox, muaythai, kempo, boks, antrenör, kişisel antrenman, İstanbul, Berkay Dağıstanlı, fitness, dövüş sporları",
-  authors: [{ name: "Berkay Dağıstanlı" }],
-  creator: "Berkay Dağıstanlı",
-  publisher: "Berkay Dağıstanlı",
+  title: "Berkay Dağıstan - Kickbox Antrenörü | Kişisel Antrenman",
+  description: "Türkiye'nin en iyi kickbox antrenörü Berkay Dağıstan ile kişisel antrenman. Muaythai, Kempo ve Boks eğitimi. 15+ yıl deneyim, Avrupa şampiyonu.",
+  keywords: "kickbox, muaythai, kempo, boks, antrenör, kişisel antrenman, İstanbul, Berkay Dağıstan, fitness, dövüş sporları",
+  authors: [{ name: "Berkay Dağıstan" }],
+  creator: "Berkay Dağıstan",
+  publisher: "Berkay Dağıstan",
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://berkayhoca.com'),
+  metadataBase: new URL('https://www.turkzagor.online'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
-    title: "Berkay Dağıstanlı - Kickbox Antrenörü",
-    description: "Türkiye'nin en iyi kickbox antrenörü Berkay Dağıstanlı ile kişisel antrenman. Muaythai, Kempo ve Boks eğitimi.",
-    url: 'https://berkayhoca.com',
-    siteName: 'Berkay Dağıstanlı Kickbox',
+    title: "Berkay Dağıstan - Kickbox Antrenörü",
+    description: "Türkiye'nin en iyi kickbox antrenörü Berkay Dağıstan ile kişisel antrenman. Muaythai, Kempo ve Boks eğitimi.",
+    url: 'https://www.turkzagor.online',
+    siteName: 'Berkay Dağıstan Kickbox',
     images: [
       {
         url: '/assets/2.jpeg',
         width: 1200,
         height: 630,
-        alt: 'Berkay Dağıstanlı - Kickbox Antrenörü',
+        alt: 'Berkay Dağıstan - Kickbox Antrenörü',
       },
     ],
     locale: 'tr_TR',
@@ -46,8 +46,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Berkay Dağıstanlı - Kickbox Antrenörü",
-    description: "Türkiye'nin en iyi kickbox antrenörü Berkay Dağıstanlı ile kişisel antrenman.",
+    title: "Berkay Dağıstan - Kickbox Antrenörü",
+    description: "Türkiye'nin en iyi kickbox antrenörü Berkay Dağıstan ile kişisel antrenman.",
     images: ['/assets/2.jpeg'],
     creator: '@turkzagor',
   },
