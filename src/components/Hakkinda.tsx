@@ -34,12 +34,12 @@ const Hakkinda = () => {
           <div className="animate-fade-in">
             <h2 className="text-4xl lg:text-6xl font-bold mb-6">
               <span className="text-gradient">Berkay</span>
-              <span className="text-foreground ml-4">Dağıstanlı</span>
+              <span className="text-foreground ml-4">Dağıstan</span>
             </h2>
             
             <div className="space-y-6 text-lg text-muted-foreground mb-8">
               <p>
-                Merhaba, ben <strong className="text-foreground">Berkay Dağıstanlı</strong>. 
+                Merhaba, ben <strong className="text-foreground">Berkay Dağıstan</strong>. 
                 1999 İstanbul doğumluyum. Çocukluk yaşlarımda spora başladım.
               </p>
               
@@ -92,7 +92,7 @@ const Hakkinda = () => {
             <div className="relative">
               <Image
                 src="/assets/aa.png"
-                alt="Berkay Dağıstanlı - Kickbox Antrenörü"
+                alt="Berkay Dağıstan - Kickbox Antrenörü"
                 width={600}
                 height={700}
                 className="w-full h-[700px] object-cover rounded-2xl shadow-2xl"
